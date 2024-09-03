@@ -7,9 +7,7 @@ The suggestions provided are not only based on sentiment
 analysis but also with respect to a particular occasion or a season. Another salient feature of this web based application is that cocktails are suggested with their recipe too, which means that users can try making the cocktails on their own at any place and any time.
 
 
-## 🤖 Team Members and Contribution
 
-- [Pallav Verma](https://github.com/Pallav14730)
 
 
 
